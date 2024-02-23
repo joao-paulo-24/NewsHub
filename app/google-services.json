@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801837007179",
+    "project_id": "newshub-c1755",
+    "storage_bucket": "newshub-c1755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801837007179:android:e4f862b7cb8a43fd5aa8ce",
+        "android_client_info": {
+          "package_name": "com.example.trabalhocmu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvYc7Y3TS3iXLYdvVL8B8uHVq_hfISOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
